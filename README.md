@@ -16,6 +16,7 @@ A collection of process automation and data engineering projects I designed and 
 | [ERP GL Migration & Auto-Categorization](projects/02-gl-erp-migration-automation.md) | GL | Python | JDE-to-NetSuite chart of accounts mapping with keyword-based, self-learning transaction categorization |
 | [Cash-in-Transit AR Reconciliation](projects/03-ar-cash-in-transit-reconciliation.md) | AR | Python | Timezone-normalized reconciliation of client sales vs. armored-transport cash collections |
 | [Travel Expense & Tax Automation](projects/04-travel-expense-tax-automation.md) | AP | Power Query | Multi-source expense data pipeline with automated monthly tax calculation per business policy |
+| [NetSuite–JPMorgan Check Payment Conversion](projects/05-jpmorgan-check-conversion.md) | AP | Python | Weekly vendor payment file conversion from NetSuite to JPMorgan's check-printing format, with live vendor master matching |
 
 ## Skills Demonstrated
 

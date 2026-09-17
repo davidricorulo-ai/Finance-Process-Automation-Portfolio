@@ -29,4 +29,4 @@ A collection of process automation and data engineering projects I designed and 
 
 ## Contact
 
-Open to connecting — reach out via [LinkedIn](#) or see contact details on my profile.
+Open to connecting — reach out via www.linkedin.com/in/david-rico-estevez or see contact details on my profile.

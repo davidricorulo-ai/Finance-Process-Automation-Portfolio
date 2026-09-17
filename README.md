@@ -1,6 +1,6 @@
 # Finance Process Automation Portfolio — FlixBus (CAT Americas)
 
-A collection of process automation and data engineering projects I designed and built as a Business Analyst on the CAT Americas finance team at FlixBus, covering Accounts Payable, Accounts Receivable, and General Ledger operations across Mexico, Chile, and Peru.
+A collection of process automation and data engineering projects I designed and built as a Business Analyst on the CAT Americas finance team at FlixBus, covering Accounts Payable, Accounts Receivable, and General Ledger operations across North America (US and Canada), Mexico, Chile, and Peru.
 
 **Author:** David
 **Role:** Business Analyst — Finance Operations & Process Automation
